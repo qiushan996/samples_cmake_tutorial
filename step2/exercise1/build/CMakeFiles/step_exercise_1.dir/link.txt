@@ -1,0 +1,1 @@
+/usr/bin/c++ -o step_exercise_1  MathFunctions/libMathFunctions.a 
