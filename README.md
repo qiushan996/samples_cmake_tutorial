@@ -1,5 +1,8 @@
 The code for cmake tutorial execrise
 
+https://cmake.org/cmake/help/latest/guide/tutorial/index.html
+
+
 ### Step 1: A Basic Starting Point
 
 - **exercise1: Building a Basic Project**
