@@ -1,6 +1,0 @@
-/home/bouheki/Source/cmake_tutorial/step2/exercise1/build/CMakeFiles/step_exercise_1.dir
-/home/bouheki/Source/cmake_tutorial/step2/exercise1/build/CMakeFiles/edit_cache.dir
-/home/bouheki/Source/cmake_tutorial/step2/exercise1/build/CMakeFiles/rebuild_cache.dir
-/home/bouheki/Source/cmake_tutorial/step2/exercise1/build/MathFunctions/CMakeFiles/MathFunctions.dir
-/home/bouheki/Source/cmake_tutorial/step2/exercise1/build/MathFunctions/CMakeFiles/edit_cache.dir
-/home/bouheki/Source/cmake_tutorial/step2/exercise1/build/MathFunctions/CMakeFiles/rebuild_cache.dir

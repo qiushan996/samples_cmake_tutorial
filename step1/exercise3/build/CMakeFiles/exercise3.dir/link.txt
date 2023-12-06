@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/exercise3.dir/test.cpp.o -o exercise3 
